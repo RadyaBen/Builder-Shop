@@ -16,8 +16,9 @@
 ## Getting started
 * Clone the repo: git clone https://github.com/RadyaBen/Builder_Shop.git
 * Use cd to go to the root directory: cd ../path/to/the/file
-* Install with npm: npm install
-* Start with npm: npm start
+* Install the Gulp CLI globally: npm install gulp-cli -g
+* Install with npm gulp: npm install gulp
+* Start with gulp: gulp
 
 ## Built With
 * [Jquery](https://jquery.com/) - The JavaScript library used
