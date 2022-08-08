@@ -1,31 +1,61 @@
-<div align="center">
+<div align='center'>
   <br>
   <h1>Builder Shop</h1>
 </div>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RadyaBen/Builder_Shop?style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/RadyaBen/Builder_Shop?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/RadyaBen/Builder_Shop?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/RadyaBen/Builder_Shop?style=plastic)
+<!-- PROJECT SHIELDS -->
+<div align='center'>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/RadyaBen/Builder-Shop?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/RadyaBen/Builder-Shop?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/RadyaBen/Builder-Shop?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/RadyaBen/Builder-Shop?style=plastic)
+
+</div>
+
+<!-- ABOUT THE PROJECT -->
 ## What is Builder Shop?
-* This is a one-page web application that allows you to order services for working with windows and balconies, calculate their cost and size. It is also available on mobile devices.
-* There are forms with which the user can send his data to contact him.
-* The front-end part is developed with JavaScript, Gulp, Slick, HTML, CSS3 and SCSS. The back-end part is developed with PHP and Fetch API.
-
-## Getting started
-* Clone the repo: git clone https://github.com/RadyaBen/Builder_Shop.git
-* Use cd to go to the root directory: cd ../path/to/the/file
-* Install the Gulp CLI globally: npm install gulp-cli -g
-* Install with npm gulp: npm install gulp
-* Start with gulp: gulp
+* This is a web application that allows users to order services for working with windows and balconies, calculating their cost and size.
+* There are forms with which a user can send their data to contact him.
+* It is also available on mobile devices.
+* The front-end part was developed with JavaScript, Gulp, Slick, HTML, CSS3 and SCSS. The back-end part was developed with PHP and Fetch API.
 
 ## Built With
-* [Jquery](https://jquery.com/) - The JavaScript library used
-* [PHP](https://www.php.net/) - The server scripting language used
-* [Gulp](https://gulpjs.com/) - The build tool used
-* [Babel](https://babeljs.io/) - The JavaScript compiler used
-* [Bootsrap](https://getbootstrap.com/) - The web framework used
-* [Slick](https://kenwheeler.github.io/slick/) - The jQuery plugin used
-* [HTML](https://developer.mozilla.org/ru/docs/Web/HTML) - The HyperText Markup Language used
-* [CSS](https://developer.mozilla.org/ru/docs/Web/CSS) - The Cascading Style Sheets used
+
+* [Jquery](https://jquery.com/)
+* [PHP](https://www.php.net/)
+* [Gulp](https://gulpjs.com/)
+* [Babel](https://babeljs.io/)
+* [Bootsrap](https://getbootstrap.com/)
+* [Slick](https://kenwheeler.github.io/slick/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [SCSS](https://sass-lang.com/) 
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+
+* [Git](https://git-scm.com)
+* [Node.js](https://nodejs.org/en/download/)
+* [npm](http://npmjs.com)
+
+### Installation
+
+```sh
+# Step 1: Clone the repository
+$ git clone https://github.com/RadyaBen/Builder-Shop.git
+
+# Step 2: Go into the repository 
+$ cd Builder-Shop
+
+# Step 3: Install the Gulp CLI globally
+$ npm install gulp-cli -g
+
+# Step 4: Install the gulp package
+$ npm install gulp
+
+# Step 5: Run the app 
+$ gulp
+```
